@@ -11,7 +11,7 @@ before_script:
 
 script: 
    - cd edades
-   - lettucce tests/
+   - lettuce tests/
 
 notifications:
   email: false
